@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derby.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyclient.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_cs.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_de_DE.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_es.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_fr.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_hu.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_it.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_ja_JP.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_ko_KR.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_pl.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_pt_BR.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_ru.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_zh_CN.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyLocale_zh_TW.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbynet.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbyrun.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/derbytools.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/osjar/awp-common.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
